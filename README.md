@@ -1,6 +1,3 @@
-Certainly! Below is a template for a GitHub README file based on the provided information:
-
----
 
 # Plant Disease Classification Project
 

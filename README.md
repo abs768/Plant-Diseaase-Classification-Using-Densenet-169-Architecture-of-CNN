@@ -27,20 +27,13 @@ The project incorporates several fine-tuning techniques:
 
 - **Insightful Visualizations:** Accuracy/loss curves and a confusion matrix provide valuable performance insights.
 
-## How to Use
+## Demo of the Site created:
 
-1. **Clone the Repository:**
-    ```bash
-    git clone https://github.com/abs768/Plant-Diseaase-Classification-Using-Densenet-169-Architecture-of-CNN.git
-    ```
+![Screenshot 2024-08-02 123530](https://github.com/user-attachments/assets/6feb2326-3329-4e27-b479-ba1c96644eea)
 
-2. **Install Dependencies:**
-    ```bash
-    pip install -r requirements.txt
-    ```
+![Screenshot 2024-08-02 123705](https://github.com/user-attachments/assets/c82aae6e-f0a4-419d-a2e2-69dc43989cce)
 
-3. **Run the Model:**
-    ```bash
-    python main.py
-    ```
+
+
+
 

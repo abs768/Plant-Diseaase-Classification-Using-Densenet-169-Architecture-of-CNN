@@ -27,8 +27,20 @@ The project incorporates several fine-tuning techniques:
 
 - **Insightful Visualizations:** Accuracy/loss curves and a confusion matrix provide valuable performance insights.
 
-## Demo of the site I have created using FastAPI and Postman:
-![Screenshot 2024-08-02 123530](https://github.com/user-attachments/assets/5f7480bf-8612-4ffb-a6da-a5f3c37ad7b1)
+## How to Use
 
-![Screenshot 2024-08-02 123705](https://github.com/user-attachments/assets/e3fa36e5-9b08-4451-ad35-8278bda545ec)
+1. **Clone the Repository:**
+    ```bash
+    git clone https://github.com/abs768/Plant-Diseaase-Classification-Using-Densenet-169-Architecture-of-CNN.git
+    ```
+
+2. **Install Dependencies:**
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+3. **Run the Model:**
+    ```bash
+    python main.py
+    ```
 
